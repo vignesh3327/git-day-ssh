@@ -2,7 +2,7 @@ import subprocess
 
 # EKS cluster configuration
 cluster_name = "test"
-region = "us-east-1"
+region = "us-east-2"
 node_type = "t2.medium"
 nodes = 7
 
