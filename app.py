@@ -4,7 +4,7 @@ import subprocess
 cluster_name = "test"
 region = "us-east-1"
 node_type = "t2.medium"
-nodes = 5
+nodes = 7
 
 # Build eksctl command
 command = [
